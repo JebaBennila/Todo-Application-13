@@ -1,6 +1,6 @@
-Name            :S.Jeba Bennila
-Register Number :950523243013
-Department      :B.Tech AI&DS ,3rd year
+Name            :S.Jeba Bennila ,
+Register Number :950523243013 ,
+Department      :B.Tech AI&DS ,3rd year 
 
 **PROJECT TITLE   : "TO-DO APPLICATION"**
 
