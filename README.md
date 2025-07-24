@@ -1,6 +1,7 @@
 Name            :S.Jeba Bennila ,
 Register Number :950523243013 ,
-Department      :B.Tech AI&DS ,3rd year 
+Department      :B.Tech AI&DS ,3rd year,
+College name    :Dr.Sivanthi Aditanar College of Engineering.
 
 **PROJECT TITLE   : "TO-DO APPLICATION"**
 
